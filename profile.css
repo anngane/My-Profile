@@ -1,0 +1,50 @@
+body{
+    text-align:center;
+        background-image: url(Autumn.jpg);
+    
+    color: black;
+    
+    
+}
+
+header{
+    height: 150px;
+    
+    
+}
+
+
+
+ul{
+    
+   padding-left: 320px;
+    padding-right: 320px;
+    list-style: disc;}
+
+
+li{
+    
+  display: inline;
+    padding: 20px;
+    
+    
+}
+
+
+img{
+  margin-bottom: 40px;
+    margin-top: 40px;
+   border: white solid 10px;
+    border-radius: 300px;
+    border-width: 5px;
+    height: 350px;
+ 
+}
+
+a{
+   font-size: 20px;
+    color: white;
+    text-decoration: none;
+    
+    
+}
